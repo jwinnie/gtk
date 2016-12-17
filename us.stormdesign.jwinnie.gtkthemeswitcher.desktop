@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=GTK Theme Switcher
+Comment=Switch Gtk+ themes quickly!
+Categories=GTK;Utility;System;
+Exec=python /home/jwinnie/Projects/GtkThemeSwitcher/GtkThemeSwitcher.py
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=gtk-theme-switcher
+Keywords=gtk;theme;switch;switcher;change;style
