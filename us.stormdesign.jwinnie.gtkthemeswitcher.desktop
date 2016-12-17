@@ -2,7 +2,7 @@
 Name=GTK Theme Switcher
 Comment=Switch Gtk+ themes quickly!
 Categories=GTK;Utility;System;
-Exec=python /home/jwinnie/Projects/GtkThemeSwitcher/GtkThemeSwitcher.py
+Exec=/usr/local/bin/GtkThemeSwitcher.py
 Icon=application-default-icon
 Terminal=false
 Type=Application
